@@ -17,7 +17,7 @@ else
         [5750914919] = "https://raw.githubusercontent.com/Xpen25Y/Data-Hubv1/refs/heads/main/Fisch", -- Fisch
         [994732206] = "https://raw.githubusercontent.com/Xpen25Y/Data-Hubv1/refs/heads/main/BloxFruits", -- BF
         [1202096104] = "https://raw.githubusercontent.com/Xpen25Y/Data-Hubv1/refs/heads/main/Drivingemprie", -- DE
-        [537413528] = "https://raw.githubusercontent.com/Xpen25Y/Data-Hubv1/refs/heads/main/BladeBall", -- 
+        [537413528] = "https://raw.githubusercontent.com/Xpen25Y/Data-Hubv1/refs/heads/main/BuildABoatForTreasure", -- 
     }
     local checkgame = gamelist[game.gameId]
 
